@@ -1,0 +1,6 @@
+{
+  "name": "CivicAI – Smart Civic Management System",
+  "description": "AI-powered civic complaint reporting and municipal management platform with smart vision analysis, hotspot mapping, and resolution tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
